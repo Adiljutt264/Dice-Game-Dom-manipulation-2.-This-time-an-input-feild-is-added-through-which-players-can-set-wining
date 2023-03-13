@@ -1,0 +1,9 @@
+we have two players on left side and right side.
+And the goal of the game is to get to 100 points first. 
+in each turn, a player rolls a dice as many times as he wishes
+ and each result gets added to his round score. 
+But if a player rolls a 1 on dice he will lose his round score.
+But in order to avoid that, the player can choose to hold.
+Which means that his round score gets added to his global score.
+And after that, it's again the next player's turn.And the first player to then reach 100 points on the
+global score wins the game.
